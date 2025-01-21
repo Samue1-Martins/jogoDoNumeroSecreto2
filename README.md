@@ -30,7 +30,7 @@ Clone o projeto
 Entre na pasta diretório do projeto
 
 ```bash
-  cd logica-js-projeto_inicial
+  cd jogoDoNumeroSecreto2
 ```
 
 É Inicie o arquivo Html

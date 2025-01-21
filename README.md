@@ -24,7 +24,7 @@ Jogo desenvolvido junto das aulas de introdução a programação da Alura em pa
 Clone o projeto
 
 ```bash
-  git clone https://github.com/Samue1-Martins/logica-js-projeto_inicial.git
+ github.com/Samue1-Martins/jogoDoNumeroSecreto2.git
 ```
 
 Entre na pasta diretório do projeto
